@@ -9,22 +9,29 @@ This repo documents my progress from beginner to advanced Python concepts, inclu
 - [x] Basics
 - [x] Control Flow
 - [x] Data Structures
-- [ ] Functions & OOP
-- [ ] File Handling
-- [ ] Advanced Python
-- [ ] Libraries
-- [ ] Projects
-- [ ] DSA
+- [x] Functions & OOP
+- [x] File Handling
+- [x] Advanced Python
+- [x] Libraries
+- [x] Projects
+- [x] DSA
 
 ---
 
 ## 📂 Folder Structure
-- `01-Basics` → Variables, Data Types, Operators
-- `02-Control-Flow` → if-else, loops, match-case
-- `03-Data-Structures` → Lists, Tuples, Sets, Dictionaries
-- `04-Functions` → Basics, *args/**kwargs, Lambda, Recursion
-- ...
 
+- `01-Basics` → Variables, Data Types, Operators, Comments & Printing
+- `02-Control-Flow` → if-else, Loops, Nested Loops, match-case
+- `03-Data-Structures` → Lists, Tuples, Sets, Dictionaries, Comprehensions
+- `04-Functions` → Basics, *args/**kwargs, Lambda, Recursion
+- `05-Advanced-Functions` → Iterators, Generators, Decorators, itertools
+- `06-OOP` → Classes & Objects, Inheritance, Polymorphism, Encapsulation, Magic Methods
+- `07-Modules-and-Packages` → Importing, Custom Modules, Built-in Modules
+- `08-File-Handling` → Reading/Writing TXT, CSV, JSON
+- `09-Error-Handling` → try-except, Custom Exceptions
+- `10-Python-Libraries` → NumPy, Pandas, Matplotlib
+- `11-Projects` → Mini Calculator, To-Do App, Password Generator, Weather API App
+- `12-DSA-Practice` → Arrays, Linked List, Stacks, Queues, Trees, Sorting, Searching
 ---
 
 ## 📚 Resources
