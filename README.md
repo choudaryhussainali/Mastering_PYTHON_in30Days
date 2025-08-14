@@ -143,7 +143,11 @@ By the end of these 30 days, you’ll be confident with:
 - Handling files, errors, and exceptions  
 - Solving DSA problems in Python  
 - Building real-world projects from scratch  
-
+---
+## 🔗 Connect & Share
+- Star ⭐ this repo if it helps you  
+- Fork 🍴 and contribute your own mini-projects  
+- Share your **Python journey on LinkedIn, Twitter, or GitHub**  
 ---
 
 ## 📄 License
