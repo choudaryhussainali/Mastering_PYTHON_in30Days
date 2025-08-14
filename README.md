@@ -113,9 +113,8 @@ Welcome to **Mastering Python in 30 Days**!
 ---
 
 ## 🚀 Projects
-- Mini Calculator
-- To-Do App
-- Weather API App
+- Terminal Habit Tracker
+- File Organizer Bot
 
 ---
 
