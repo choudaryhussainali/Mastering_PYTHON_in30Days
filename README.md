@@ -5,7 +5,7 @@ This repo documents my progress from beginner to advanced Python concepts, inclu
 
 ---
 
-## 📅 Learning Roadmap
+## Topics Covered
 - [x] Basics
 - [x] Control Flow
 - [x] Data Structures
@@ -15,6 +15,24 @@ This repo documents my progress from beginner to advanced Python concepts, inclu
 - [x] Libraries
 - [x] Projects
 - [x] DSA
+
+---
+
+
+## 📅 Learning Roadmap
+| Day  | Topic |
+|------|-------|
+| 01-03 | Python Basics – Variables, Data Types, Operators |
+| 04-06 | Control Flow – if-else, Loops, match-case |
+| 07-09 | Data Structures – Lists, Tuples, Sets, Dictionaries, Comprehensions |
+| 10-11 | Functions – Basics, Arguments, Lambda, Recursion |
+| 12-13 | Advanced Functions – Iterators, Generators, Decorators |
+| 14-16 | OOP – Classes, Inheritance, Polymorphism, Encapsulation, Magic Methods |
+| 17    | Modules & Packages – Importing, Built-in, Custom |
+| 18    | File Handling – TXT, CSV, JSON |
+| 19    | Error Handling – try-except, Custom Exceptions |
+| 20-25 | Projects – Mini Calculator, To-Do App, Password Generator, Weather App |
+| 26-30 | DSA Basics – Arrays, Linked List, Stacks, Queues, Trees, Sorting, Searching 
 
 ---
 
